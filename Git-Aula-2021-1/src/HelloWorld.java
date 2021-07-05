@@ -32,6 +32,7 @@ public class HelloWorld {
 		System.out.println("Criando um novo commit - Wanderley Patrício de Sousa Neto");
 		System.out.println("Criando um novo commit - Keiza Analizi da Silva");
 		System.out.println("Criando um novo commit - Madson Celestino da Rocha");
+		System.out.println("Criando um novo commit - Matheus Calixto");
 		
 	}
 	

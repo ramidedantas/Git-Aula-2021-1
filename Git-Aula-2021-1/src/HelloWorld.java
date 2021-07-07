@@ -23,8 +23,8 @@ public class HelloWorld {
 		System.out.println("Criando um novo commit para a Pratica 3 - Daniel Cardoso");
 		System.out.println("Criando um novo commit para a Pratica 3 - Daniel Cardoso - Pull Request");
 		System.out.println("Criando um novo commit para a Pratica 3 - Luiz Marcel");
-    System.out.println("Criando um novo commit para a pr�tica 3 - Vagner Henrique");
-  	System.out.println("Criando um novo commit para a pr�tica 3 - Vagner Henrique  - Pull Request");
+    		System.out.println("Criando um novo commit para a pr�tica 3 - Vagner Henrique");
+  		System.out.println("Criando um novo commit para a pr�tica 3 - Vagner Henrique - Pull Request");
   
     
     System.out.println("Commit Eclipse + BASH !!!");

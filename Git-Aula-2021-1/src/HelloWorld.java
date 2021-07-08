@@ -95,6 +95,7 @@ public class HelloWorld {
 		System.out.println("Criando um novo commit para a Pr�tica 3 - Anderson Batista");
 		System.out.println("Criando um novo commit para a Pr�tica 3 - Anderson Batista - Pull Request");
 		System.out.println("Criando um novo commit para a Pratica 3 - Carolina Amorim de Oliveira");
+		System.out.println("Criando um novo commit para a Pratica 3 - Carolina Amorim de Oliveira- pull request");
 		System.out.println("Criando um novo commit para a Pratica 3 - Nelson Henrique");
 		System.out.println("Criando um novo commit para a Pr�tica 3 - Nelson Henrique - Pull Request");
 		System.out.println("Criando um novo commit para a pr�tica 3 - Guilherme Henrique");

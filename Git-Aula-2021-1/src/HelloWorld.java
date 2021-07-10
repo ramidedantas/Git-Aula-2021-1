@@ -1,5 +1,3 @@
-
-
 public class HelloWorld {
 
 	public static void main(String[] args) {
@@ -15,14 +13,21 @@ public class HelloWorld {
 		System.out.println("Criando um novo commit para a Pr�tica 3 - Anderson Batista");
 		System.out.println("Criando um novo commit para a Pr�tica 3 - Anderson Batista - Pull Request");
 		System.out.println("Criando um novo commit para a Pratica 3 - Carolina Amorim de Oliveira");
+		System.out.println("Criando um novo commit para a Pratica 3 - Carolina Amorim de Oliveira- pull request");
 		System.out.println("Criando um novo commit para a Pratica 3 - Nelson Henrique");
 		System.out.println("Criando um novo commit para a Pr�tica 3 - Nelson Henrique - Pull Request");
 		System.out.println("Criando um novo commit para a pr�tica 3 - Guilherme Henrique");
 		System.out.println("Criando um novo commit para a pr�tica 3 - Guilherme Henrique - Pull Request");
 		System.out.println("Criando um novo commit para a pr�tica 3 - João Santos");
-		System.out.println("Criando um novo commit para a pr�tica 3 - João Santos - Pull Request");
-		
-        System.out.println("Commit Eclipse + BASH !!!");
+		System.out.println("Criando um novo commit para a Pratica 3 - Daniel Cardoso");
+		System.out.println("Criando um novo commit para a Pratica 3 - Daniel Cardoso - Pull Request");
+		System.out.println("Criando um novo commit para a Pratica 3 - Luiz Marcel");
+		System.out.println("Criando um novo commit para a pr�tica 3 - Vagner Henrique");
+		System.out.println("Criando um novo commit para a pr�tica 3 - Vagner Henrique - Pull Request");
+		System.out.println("Criando um novo commit para a pratica 3 - Madson");
+		System.out.println("Criando um novo commit para a pratica 3 - Madson - pull request");
+
+		System.out.println("Commit Eclipse + BASH !!!");
 		System.out.println("Criando um novo commit - Natasha Barbachan");
 		System.out.println("Criando um novo commit - Nelson Henrique");
 		System.out.println("Criando um novo commit - Gleydson Galvão");
@@ -42,8 +47,6 @@ public class HelloWorld {
 		System.out.println("Criando um novo commit - Matheus Calixto");
 		System.out.println("Criando um novo commit -Carolina Amorim de Oliveira");
 
-
-		
 	}
-	
+
 }

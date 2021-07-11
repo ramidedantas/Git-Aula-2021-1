@@ -1,15 +1,15 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World!!!!!!");
-		System.out.println("Teste Pull Request!!!!!");
+		System.out.println("Hello World!!!!!!!");
+		System.out.println("Teste Pull Request!!!!!!");
 		System.out.println("Branch Main + Eclipse + Bash - Merge!");
 		System.out.println("Criando um novo commit para a Pr�tica 3 - Natasha Barbachan");
 		System.out.println("Criando um novo commit para a Pr�tica 3 - Natasha Barbachan - Pull Request");
-		System.out.println("Criando um novo commit para a Pr�tica 3 - Jos� Santana");
+		System.out.println("Criando um novo commit para a Pr�tica 3 - José Santana");
 		System.out.println("Criando um novo commit para a Pr�tica 3 - Gleydson");
 		System.out.println("Criando um novo commit para a Pr�tica 3 - Gleydson [Pull Request Novo]");
-		System.out.println("Criando um novo commit para a Pr�tica 3 - Wanderley Patr�cio");
+		System.out.println("Criando um novo commit para a Pr�tica 3 - Wanderley Patrício");
 		System.out.println("Criando um novo commit para a Pr�tica 3 - Anderson Batista");
 		System.out.println("Criando um novo commit para a Pr�tica 3 - Anderson Batista - Pull Request");
 		System.out.println("Criando um novo commit para a Pratica 3 - Carolina Amorim de Oliveira");

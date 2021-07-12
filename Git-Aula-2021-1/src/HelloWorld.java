@@ -2,7 +2,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!!!!!!!");
-		System.out.println("Teste Pull Request!!!!!!");
+		System.out.println("Teste Pull Request!!!!!");
 		System.out.println("Branch Main + Eclipse + Bash - Merge!");
 		System.out.println("Criando um novo commit para a prática 3 - Natasha Barbachan");
 		System.out.println("Criando um novo commit para a prática 3 - Natasha Barbachan - Pull Request");
@@ -28,6 +28,7 @@ public class HelloWorld {
 		System.out.println("Criando um novo commit para a prática 3 - Madson - pull request");
 		System.out.println("Criando um novo commit para a prática 3 - Samuel Vitor");
 		System.out.println("Criando um novo commit para a prática 3 - Samuel Vitor-Pull Request");
+		System.out.println("Criando um novo commit para a prática 3 - Samuel Vitor-Pull Request após reverse");
 		System.out.println("Criando um novo commit para a prática 3 - Kleber Danylo");
 		System.out.println("Criando um novo commit para a prática 3 - Kleber Danylo-Pull Request");
 

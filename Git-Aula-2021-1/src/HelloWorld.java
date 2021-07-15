@@ -31,7 +31,7 @@ public class HelloWorld {
 		System.out.println("Criando um novo commit para a prática 3 - Samuel Vitor-Pull Request após reverse");
 		System.out.println("Criando um novo commit para a prática 3 - Kleber Danylo");
 		System.out.println("Criando um novo commit para a prática 3 - Kleber Danylo-Pull Request");
-
+    
 		System.out.println("Commit Eclipse + BASH !!!");
 		System.out.println("Criando um novo commit - Natasha Barbachan");
 		System.out.println("Criando um novo commit - Nelson Henrique");
@@ -51,7 +51,8 @@ public class HelloWorld {
 		System.out.println("Criando um novo commit - Madson Celestino da Rocha");
 		System.out.println("Criando um novo commit - Matheus Calixto");
 		System.out.println("Criando um novo commit -Carolina Amorim de Oliveira");
-
+    System.out.println("Criando um novo commit para a prática 3 - Wanderley Patrício (Pull request reverso - Corrigindo conflito.");
+    
 	}
 
 }

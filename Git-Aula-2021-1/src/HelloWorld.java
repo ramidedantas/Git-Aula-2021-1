@@ -57,7 +57,7 @@ public class HelloWorld {
 		System.out.println("Criando um novo commit -Carolina Amorim de Oliveira");
 		System.out.println("Criando um novo commit para a prática 3 - Wanderley Patrício (Pull request reverso - Corrigindo conflito.");
 		System.out.println("Criando um novo commit - Jonas Ferreira da Paix�o");
-
+		System.out.println("Criando um novo commit - Maria Beatriz Germano Evaristo dos Santos");
     
 	}
 

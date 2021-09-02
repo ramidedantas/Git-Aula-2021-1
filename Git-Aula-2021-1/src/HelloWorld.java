@@ -38,9 +38,22 @@ public class HelloWorld {
 		System.out.println("Criando um novo commit para a prática 3 - Maria Beatriz Germano");
 		System.out.println("Criando um novo commit para a prática 3 - Joao Victor");
 		System.out.println("Criando um novo commit para a prática 3 - Joao Victor - Pull Request");
-
 		System.out.println("Criando um novo commit para a prática 3 - Maria Beatriz Germano-Pull Request");
-		
+		System.out.println("Criando um novo commit para a Pr�tica 3 - Natasha Barbachan");
+		System.out.println("Criando um novo commit para a Pr�tica 3 - Natasha Barbachan - Pull Request");
+		System.out.println("Criando um novo commit para a Pr�tica 3 - Jos� Santana");
+		System.out.println("Criando um novo commit para a Pr�tica 3 - Gleydson");
+		System.out.println("Criando um novo commit para a Pr�tica 3 - Gleydson [Pull Request Novo]");
+		System.out.println("Criando um novo commit para a Pr�tica 3 - Wanderley Patr�cio");
+		System.out.println("Criando um novo commit para a Pr�tica 3 - Anderson Batista");
+		System.out.println("Criando um novo commit para a Pr�tica 3 - Anderson Batista - Pull Request");
+		System.out.println("Criando um novo commit para a Pratica 3 - Carolina Amorim de Oliveira");
+		System.out.println("Criando um novo commit para a Pratica 3 - Nelson Henrique");
+		System.out.println("Criando um novo commit para a Pr�tica 3 - Nelson Henrique - Pull Request");
+		System.out.println("Criando um novo commit para a pr�tica 3 - Guilherme Henrique");
+		System.out.println("Criando um novo commit para a pr�tica 3 - Guilherme Henrique - Pull Request");
+		System.out.println("Criando um novo commit para a pr�tica 3 - Joao Santos");
+
 		System.out.println("Commit Eclipse + BASH !!!");
 		System.out.println("Criando um novo commit - Natasha Barbachan");
 		System.out.println("Criando um novo commit - Nelson Henrique");
